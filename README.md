@@ -2,9 +2,9 @@
 
 A gas leak detector built around a NodeMCU (ESP8266) and an MQ-9 sensor. When the sensor reading goes above a threshold, the board closes a solenoid gas valve through a relay and starts a buzzer and an alarm LED. The board also hosts a small web panel where you can change the thresholds, override the relay by hand and mute the buzzer.
 
-![Wiring diagram](docs/circuit.png)
+![Wiring diagram](circuit.png.png)
 
-![Prototype](docs/prototype.png)
+![Prototype](prototype.png.png)
 
 ## How it works
 
